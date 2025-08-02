@@ -63,6 +63,8 @@
 > Desktop software to manage inventory, sales, and seller data.  
 > Built in **VB.NET + SQL**, focused on secure data workflows.
 
+📌 Repo: [ShoppingMallManagement-VB.NET](https://github.com/dasviolina001/ShoppingMallManagement-VB.NET)
+
 ---
 
 ## 📊 GitHub Stats
