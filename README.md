@@ -33,7 +33,7 @@
 > Chatbot system using **Seq2Seq with attention** to translate **English → Assamese/Bodo**.  
 > Features text-to-speech and GUI built with **Flask + PyTorch**.
 
-📌 Repo: [Translation System](https://github.com/dasviolina001/assamese-bodo-translator)
+📌 Repo: [Translation System](https://github.com/dasviolina001/bilingual-translator-ai)
 
 ---
 
