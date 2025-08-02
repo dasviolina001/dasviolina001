@@ -54,6 +54,7 @@
 ### 🎥 Real-Time Person Detection System
 > Face recognition system for **missing/wanted person detection** from CCTV feed.  
 > Sends **alerts to authorities** in real-time using Python OpenCV + automation.
+
 📌 Repo: [Real-Time-Automated-Person-Detection-And-Alert-System](https://github.com/dasviolina001/Real-Time-Automated-Person-Detection-And-Alert-System)
 
 ---
