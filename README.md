@@ -7,7 +7,7 @@
 - 🌱 Learning: **AI integration (ChatGPT), advanced NLP, and web-AI fusion**
 - 👯 Open to collaborate on: **Creative web apps and applied AI/ML projects**
 - 💬 Ask me about: `Python`, `Flask`, `React`, `VB.NET`, `SQL`, `Pytorch`, `PHP`
-- 📫 Reach me at: [dasviolina51@gmail.com](mailto:dasviolina51@gmail.com) | [LinkedIn](https://linkedin.com/in/violina-das-91a11b229)
+- 📫 Reach me at: [dasviolina51@gmail.com](mailto:dasviolina51@gmail.com) | [LinkedIn](https://linkedin.com/in/violina-das-91a11b229) | [Portfolio](https://violina-portfolio-bg19.onrender.com)
 - ⚡ Fun fact: I love building tech that solves real-world problems!
 - 🌐 Official website of **Sivcon** – a modern, responsive site built using HTML, CSS, and JavaScript. Developed by **Violina Das**.
 
