@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Violina Das</h1>
-<h3 align="center">Software Developer | AI/ML Enthusiast | Full-stack Web Developer</h3>
+<h3 align="center">Software Developer | AI/ML Enthusiast | Full-stack Web Developer | Game Developer</h3>
 
 ---
 
